@@ -1,0 +1,23 @@
+{
+  "id": "974743dd",
+  "title": "手表的防水等级是多少？",
+  "created_at": "2026-09-27T00:57:27.347253",
+  "messages": [
+    {
+      "role": "user",
+      "content": "手表的防水等级是多少？"
+    },
+    {
+      "role": "assistant",
+      "content": ""
+    },
+    {
+      "role": "user",
+      "content": "该手表的防水等级是多少"
+    },
+    {
+      "role": "assistant",
+      "content": "该手表的防水等级是 **IP68**，可游泳佩戴。"
+    }
+  ]
+}
